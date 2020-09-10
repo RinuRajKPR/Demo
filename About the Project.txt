@@ -1,0 +1,42 @@
+
+	Self Introduction:
+			Im Rinnuraj Im currently working as a Senior Test Analyst From Synbrant Technologies Adyar Chennai 
+		with 4.5 Years of Experencience in which 2 years in Manual Testing and,2.5 yrs in Automation using Selenium
+		as soon as i completed my gradution in Engineering,i Started Preparing for Govt jobs for 3 years
+		unfouturantely i couldnt get in. so i started my carreer with Octel Communications a Networking Based 
+		Company. Then Eventally i Started Studying Manual Testing and started my carreer in software testing from Sunbrant Technologies
+		and Ive Got my Foundation Level Certificate in ISTQB 
+		as i thought will be Helpfull for my future and im planning on Getting Certified in Selenium too. thats is all
+		about me.  
+		
+		  
+			
+
+	About The Company:											
+	
+
+	Project Explanation:
+		I.   	Name of the project
+		II.  	Client company developed for which company
+		III. 	Client Background
+		IV.  	Which Country or Place
+		V.   	Purpose of the Project.
+		VI.  	Why the project is outsourced
+		VII. 	As far the testing is concerned it was outs
+		VIII.	Total duration initial we started with the manual testing and the main functionalites were automated.
+		IX.  	How many member 
+		X.   	my position in the team is as Senior test Analyst
+		XI.  	above me	-test lead and delivery manager.
+		X. 	My key deliverables in this project.
+
+
+	Technical:
+		
+
+
+
+
+				
+			
+
+		
